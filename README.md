@@ -1,4 +1,4 @@
-# Mon plugin pour les inscriptions d'alternance!
+# Plugin WP pour les inscriptions d'alternance!
 
 Ce projet a été réalisé dans le cadre d'une évaluation pour ma formation de Développeur web & web mobile.
 
@@ -6,9 +6,9 @@ Ce projet a été réalisé dans le cadre d'une évaluation pour ma formation de
 
     Prérequis: avoir docker-compose et docker installés
 
-**First** : git clone https://gitlab.com/flojarno/alternance-plugin-wp.git
+**First** : git clone https://github.com/flojarno/plugin-wp-form.git
 
-**Second** : cd alternance-plugin-wp .
+**Second** : cd plugin-wp-form
 
 **Third** : Open a terminal and exec : docker-compose up.
 
